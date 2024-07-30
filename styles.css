@@ -1,0 +1,9 @@
+.extension-highlight {
+  outline: 2px solid red !important;
+  background-color: rgba(255, 0, 0, 0.2) !important;
+}
+
+.extension-clickable-overlay {
+  outline: 2px dashed blue !important;
+  background-color: rgba(0, 0, 255, 0.1) !important;
+}
